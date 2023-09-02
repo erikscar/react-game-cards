@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  background-color: #727171;
+  gap: 2rem;
+  margin: 2rem auto;
+  padding: 3rem;
+  border-radius: 2rem;
+  height: 30rem;
+  width: 57rem;
+}
+
+.posterimg {
+  border: 0.5rem solid #000;
+}
+
+.container h2 {
+  font-size: 28px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container p {
+  line-height: 1.5rem;
+}
